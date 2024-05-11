@@ -20,3 +20,6 @@ $ ng generate component DogsList --flat --standalone
 
 > 6 Probamos en el servidor
 $ ng serve --o
+
+> 7 Generar un nuevo componente
+$ ng generate component DogsListCard --flat --standalone
